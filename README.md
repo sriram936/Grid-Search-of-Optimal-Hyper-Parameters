@@ -10,7 +10,7 @@ This repo contains kaggle link to grid search and some of my contributions to DF
 <strong>Cons:</strong> Architectural visualization revealed a latent dimensionality mismatch at a specific bottleneck, identifying a critical area for structural refinement.
 
 ## Kaggle  Links
-We have parallely implemented grid search in 3 different devices, hence we have 3 links.
+I have parallely implemented grid search in 3 different accounts, hence I have given 3 links.
 
 [Link 1](https://www.kaggle.com/code/sriramm932/dfu-gridwork)
 <br><br>
