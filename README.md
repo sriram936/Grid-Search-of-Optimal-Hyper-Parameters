@@ -31,3 +31,10 @@ We have parallely implemented grid search in 3 different devices, hence we have 
 
 ## Architecture  Visualization
 <img width="511" height="764" alt="image" src="https://github.com/user-attachments/assets/4fd5f485-1d32-453f-98a0-271e72e85a78" />
+
+## Architecture Flow
+<img width="1918" height="918" alt="flow" src="https://github.com/user-attachments/assets/6ce13939-c6c8-4f91-a185-68c5909a8d12" />
+
+## Results
+<img width="606" height="180" alt="image" src="https://github.com/user-attachments/assets/c4b29d65-6ef3-4c9b-b9da-695b020b350f" />
+
